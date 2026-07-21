@@ -1,6 +1,0 @@
-{
-    "tokens": [
-      "8886314285:AAEFnh248GK_gyFZqLokS6NV23Hyi_VqWrg"
-    ]   
-  }  
-  
